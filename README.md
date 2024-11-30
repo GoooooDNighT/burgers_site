@@ -1,2 +1,1 @@
-# burgers_site
-burgers
+# cookies_landing
